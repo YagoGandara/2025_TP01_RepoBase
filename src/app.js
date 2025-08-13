@@ -1,6 +1,6 @@
 // Versión inicial
 function saludar() {
-    console.log("Hola mundo");
+    console.lgo("Hola mundo");
 }
 
 saludar();
